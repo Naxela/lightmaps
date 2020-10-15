@@ -1,0 +1,2 @@
+# lightmaps
+Testing lightmaps
